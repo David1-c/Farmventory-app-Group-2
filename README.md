@@ -1,4 +1,4 @@
-# Farmventory-app-Group-2
+# Farmventory-app
 Farmventory is as mobile and web app built for farmers. It helps you: save time, track your yields and stock levels, stay organized across crops, livestock, and supplies, make better decisions with real-time data.
 
 Core features: (a) Real-time dashboard (b) Alerts and Notification (c) Cheaper Seeds (d) Smart Organization (e) E-Commerce module
