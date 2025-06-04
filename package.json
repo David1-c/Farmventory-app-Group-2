@@ -1,0 +1,13 @@
+{
+    "name": "farmventory-app",
+    "version": "1.0.0",
+    "description": "My Farmventory application",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Adejumo David",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
